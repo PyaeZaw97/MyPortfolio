@@ -1,0 +1,20 @@
+@font-face{
+	font-family: "abrill";
+	src:url("fonts/Abril_Fatface/AbrilFatface-Regular.ttf");
+}
+
+@font-face{
+	font-family: "orani";
+	src:url("fonts/Oranienbaum/Oranienbaum-Regular.ttf");
+}
+
+@font-face{
+	font-family: "pie";
+	src:url("fonts/Piedra/Piedra-Regular.ttf");
+}
+
+
+@font-face{
+	font-family: "laila";
+	src:url("fonts/Laila/Laila-Regular.ttf");
+}
